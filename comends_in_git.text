@@ -11,3 +11,5 @@ git add .       -it will add all the files
 
 git commit -m "your message" -to save evetything in github  (first do the add after that do commit)
 
+
+git push origin main  -upload local repo content to remote repo
