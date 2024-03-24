@@ -1,5 +1,6 @@
 # testing
 learning github
 
-this is jist a testing
+this is just a testing
+<hr>
 Auther- Sugata Maity
