@@ -1,0 +1,13 @@
+ls-  to see the items in a repo
+
+Get-ChildItem -Hidden    -to see the hiden files
+
+git status   -to see the status
+
+git add *file name*  - adds new or changed files in your working directory to the Git staging area.
+
+git add .       -it will add all the files
+
+
+git commit -m "your message" -to save evetything in github  (first do the add after that do commit)
+
